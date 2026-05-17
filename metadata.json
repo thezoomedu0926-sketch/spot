@@ -1,0 +1,6 @@
+{
+  "name": "협업 그림판 - 누가 제일 나쁜 사람일까요?",
+  "description": "참여자들이 실시간으로 낙서하며 의견을 나눌 수 있는 기업교육용 협업 그림판입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
